@@ -2,21 +2,10 @@
 nvcv
 ===============================
 
-.. image:: https://img.shields.io/pypi/v/nvcv.svg
-        :target: https://pypi.python.org/pypi/nvcv
-
-.. image:: https://img.shields.io/travis/nathanq/nvcv.svg
-        :target: https://travis-ci.org/nathanq/nvcv
-
-.. image:: https://readthedocs.org/projects/nvcv/badge/?version=latest
-        :target: https://readthedocs.org/projects/nvcv/?badge=latest
-        :alt: Documentation Status
-
 
 nvcv
 
 * Free software: ISC license
-* Documentation: https://nvcv.readthedocs.org.
 
 Features
 --------
